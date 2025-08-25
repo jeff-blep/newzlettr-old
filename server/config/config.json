@@ -1,0 +1,30 @@
+{
+  "plex": {
+    "url": "http://10.0.1.2:32400",
+    "token": "jttz21XYh9sm8M55wenE",
+    "insecureTLS": false
+  },
+  "tautulli": {
+    "url": "http://10.0.1.2:8181",
+    "apiKey": "10fe7cd07ce34bde809febae32daf3ea"
+  },
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "secure": false,
+    "user": "kunkmasterflex@gmail.com",
+    "pass": "nisgyirfenlnhiwc",
+    "fromAddress": "kunkmasterflex@gmail.com"
+  },
+  "lookbackDays": 7,
+  "recipients": [],
+  "ownerRecommendation": {
+    "plexItemId": "",
+    "note": ""
+  },
+  "lastTest": {
+    "plex": "ok",
+    "tautulli": "ok",
+    "smtp": "ok"
+  }
+}

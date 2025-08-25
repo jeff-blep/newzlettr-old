@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+
+# node
+node_modules/
+dist/
+.vite/
+
+# runtime/env secrets & state (created at runtime, NOT tracked)
+.env
+.env.*
+server/config.json
+server/emailtemplates.json
+server/newsletters.json
+server/recipients.json

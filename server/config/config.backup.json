@@ -1,0 +1,42 @@
+{
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "secure": false,
+    "starttls": true,
+    "auth": {
+      "user": "kunkmasterflex@gmail.com",
+      "pass": "nisgyirfenlnhiwc"
+    },
+    "fromName": "Kunkflix",
+    "from": "kunkmasterflex@gmail.com",
+    "replyTo": "",
+    "plexUrl": "http://10.0.1.2:32400",
+    "plexApi": "jttz21XYh9sm8M55wenE",
+    "tautulliUrl": "http://10.0.1.2:8181",
+    "tautulliApi": "10fe7cd07ce34bde809febae32daf3ea",
+    "security": "starttls",
+    "user": "kunkmasterflex@gmail.com",
+    "pass": ""
+  },
+  "plexUrl": "http://10.0.1.2:32400",
+  "plexApi": "jttz21XYh9sm8M55wenE",
+  "tautulliUrl": "http://10.0.1.2:8181",
+  "tautulliApi": "10fe7cd07ce34bde809febae32daf3ea",
+  "smtpHost": "smtp.gmail.com",
+  "smtpPort": 587,
+  "smtpSecurity": "starttls",
+  "smtpSecure": false,
+  "smtpUser": "kunkmasterflex@gmail.com",
+  "smtpPass": "",
+  "fromName": "Kunkflix",
+  "fromAddress": "kunkmasterflex@gmail.com",
+  "plex": {
+    "url": "http://10.0.1.2:32400",
+    "token": "jttz21XYh9sm8M55wenE"
+  },
+  "tautulli": {
+    "url": "http://10.0.1.2:8181",
+    "apiKey": "10fe7cd07ce34bde809febae32daf3ea"
+  }
+}

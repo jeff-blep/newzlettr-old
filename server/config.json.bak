@@ -1,0 +1,22 @@
+{
+  "smtpHost": "smtp.gmail.com",
+  "smtpPort": 587,
+  "smtpSecure": false,
+  "smtpUser": "kunkmasterflex@gmail.com",
+  "smtpPass": "nisgyirfenlnhiwc",
+  "fromAddress": "kunkmasterflex@gmail.com",
+  "plexUrl": "http://10.0.1.2:32400/",
+  "plexToken": "jttz21XYh9sm8M55wenE",
+  "tautulliUrl": "http://10.0.1.2:8181",
+  "tautulliApiKey": "10fe7cd07ce34bde809febae32daf3ea",
+  "lookbackDays": 7,
+  "ownerRecommendation": {
+    "plexItemId": "95908",
+    "note": "Wonderland is one hell of a ride — a raw, chaotic true-crime thriller that dives headfirst into the infamous Wonderland murders. Val Kilmer nails it as John Holmes, spiraling out of the porn world and into a fucked-up storm of drugs, betrayal, and violence in 1980s L.A. What makes it so damn good is how it’s told through conflicting perspectives, so you’re never quite sure who’s lying, who’s telling the truth, or if anyone even knows. It’s gritty, messy, and feels almost too real — like watching a true-crime doc, only with a hell of a lot more blood and edge."
+  },
+  "lastTest": {
+    "plex": "ok",
+    "tautulli": "ok",
+    "smtp": "ok"
+  }
+}
